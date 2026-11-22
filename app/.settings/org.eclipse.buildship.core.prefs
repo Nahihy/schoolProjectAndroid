@@ -1,0 +1,13 @@
+arguments=--init-script /home/sagiv/.cache/jdtls/config/org.eclipse.osgi/163/0/.cp/gradle/init/init.gradle
+auto.sync=false
+build.scans.enabled=false
+connection.gradle.distribution=GRADLE_DISTRIBUTION(VERSION(9.7.1))
+connection.project.dir=..
+eclipse.preferences.version=1
+gradle.user.home=
+java.home=/nix/store/6mjvrmphia72izv1qpm04j5fkvpqjbhy-openjdk-25.0.4.1+1/lib/openjdk
+jvm.arguments=
+offline.mode=false
+override.workspace.settings=true
+show.console.view=true
+show.executions.view=true
